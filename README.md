@@ -3,7 +3,7 @@
 
 O Southampton é um tradicional clube do futebol inglês que, após uma temporada conturbada, foi rebaixado para a Championship (segunda divisão inglesa). Determinado a retornar à elite da Premier League com uma estratégia inteligente e de longo prazo, o clube decidiu apostar em uma abordagem moderna: a ciência de dados aplicada ao futebol.
 
-Foi nesse contexto que fui contratado como cientista de dados — ainda estagiário, mas com uma missão ambiciosa:
+Foi nesse contexto que fui contratado como cientista de dados — ainda estagiário, mas com uma missão ambiciosa
 💼 Identificar fragilidades no elenco atual e sugerir reforços dentro de um orçamento limitado de 25 milhões de euros.
 
 Para isso, tive acesso ao banco de dados completo da temporada 2024/25 da Premier League, com estatísticas detalhadas de jogadores de todos os clubes da primeira divisão, incluindo o próprio Southampton. A missão era clara:
