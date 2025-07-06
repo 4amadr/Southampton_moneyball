@@ -1,0 +1,19 @@
+Assists
+Passes
+Successful Passes
+Passes%
+Crosses
+Successful Crosses
+Crosses %
+fThird Passes
+Successful fThird Passes
+fThird Passes %
+Through Balls
+Progressive Carries
+Quebra de linha por 90m
+Passes por 90m
+Condução ao ataque por 90m
+Condução por 90m
+Assistencias por 90m
+Conduções que geraram assistencia por 90m
+Eficacia com a bola
